@@ -28,13 +28,12 @@ import {
   import Opera from '../src/Assets/opera.avif';
   import Pendant from '../src/Assets/pendant.avif';
   import Plastron from '../src/Assets/plastron.jpg';
-  import Princess from '../src/Assets/princess.avif';
-  import Riviere from '../src/Assets/riviere.avif';
+  import Princess from '../src/Assets/prinecess.avif';
   import Riviere from '../src/Assets/riviere.avif';
   import Sautoir from '../src/Assets/sautoir.jpg';
   import Thread from '../src/Assets/thread.avif';
   import Torque from '../src/Assets/torque.avif';
-  import Twisted from '../src/Assets/twisted.avif';
+  import Twisted from '../src/Assets/twisted.jpg';
   import Test from '../src/Assets/test.avif';	
   import Man1 from '../src/Assets/man1.avif';
   import Man2 from '../src/Assets/man2.avif';
@@ -64,7 +63,7 @@ import {
   export const hero = {
     title: 'Luxury Necklaces for Every Occasion',
     subtitle:
-      'Discover Timeless Elegance: Unveiling a Collection of Exquisite Necklaces Crafted to Elevate Your Style and Captivate Hearts',
+      'Unveiling a Collection of Exquisite Necklaces Crafted to Elevate Your Style.',
     buttonText: 'Shop Now',
   };
   
