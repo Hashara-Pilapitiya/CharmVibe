@@ -10,7 +10,7 @@ import {
   } from 'react-icons/io';
   
   // import images
-  import Feature1 from '../src/Assets/feature1.avif';
+  import Feature1 from '../src/Assets/feature1.jpg';
   import Feature2 from '../src/Assets/feature2.jpg';
   import Bib from '../src/Assets/bib.jpg';
   import Chain from '../src/Assets/chain.jpg';
@@ -88,14 +88,14 @@ import {
     image: <Feature1 />,
     title: 'Elevate Your Style with Captivating Necklaces',
     subtitle:
-      'Our necklaces are designed for versatility, seamlessly transitioning from day to night, making them the perfect accessory for any outfit.',
+      'Our necklaces are designed for versatility, and making them the perfect accessory for any outfit.',
     buttonText: 'Show Now',
     items: [
       {
         icon: <IoIosCheckmarkCircle />,
         title: 'Quality Materials',
         subtitle:
-          'Our necklaces are made from high-quality materials, including [specify materials], to guarantee durability and a luxurious feel.',
+          'Our necklaces are made from high-quality materials, including gold, to guarantee durability and a luxurious feel.',
       },
       {
         icon: <IoIosCheckmarkCircle />,

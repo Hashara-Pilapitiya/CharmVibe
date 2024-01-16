@@ -26,9 +26,7 @@ const Hero = () => {
           {buttonText}
         </button>
 
-        <div>
-          <Stats />
-        </div>
+        
 
       </div>
       
