@@ -10,7 +10,6 @@ import {
   } from 'react-icons/io';
   
   // import images
-  import Background from '../src/Assets/background.avif';
   import Feature1 from '../src/Assets/feature1.avif';
   import Feature2 from '../src/Assets/feature2.jpg';
   import Bib from '../src/Assets/bib.jpg';
@@ -23,7 +22,6 @@ import {
   import Lavaliere from '../src/Assets/lavaliere.avif'; 
   import Locket from '../src/Assets/locket.avif';
   import Matinee from '../src/Assets/matinee.avif';
-  import Neck from '../src/Assets/neck.avif';
   import Negligee from '../src/Assets/negligee.avif';
   import Opera from '../src/Assets/opera.avif';
   import Pendant from '../src/Assets/pendant.avif';
