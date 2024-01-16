@@ -8,7 +8,7 @@ const Hero = () => {
   const {title, subtitle, buttonText} = hero;
 
   return (
-    <section className='bg-gradient-to-br from-teal-400 h-[700px] w-full relative'>
+    <section className='bg-gradient-to-br from-teal-400 h-[729px] w-full relative'>
 
       <img src={Neck} alt=''className='w-full h-full object-cover absolute mix-blend-overlay' />
 

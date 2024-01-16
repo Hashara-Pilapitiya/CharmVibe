@@ -3,7 +3,7 @@ import { stats } from '../data';
 
 const Stats = () => {
   return (
-    <div className='bg-accent rounded-[20px] p-12 m-20 mt-1.5'>
+    <div className='bg-accent rounded-[20px] p-12 m-20 mt-40'>
       <div className='flex flex-wrap gap-y-8'>
         {stats.map((item, index) => {
           return (
