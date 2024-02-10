@@ -41,8 +41,8 @@ export default function App() {
           <p>Pendant</p>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={Charms} />
-          <p>Charms</p>
+          <img src={Opera} />
+          <p>Opera</p>
         </SwiperSlide>
         <SwiperSlide>
           <img src={Choker} />
@@ -53,8 +53,8 @@ export default function App() {
           <p>Collar</p>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={Opera} />
-          <p>Opera</p>
+          <img src={Charms} />
+          <p>Charms</p>
         </SwiperSlide>
       </Swiper>
     </>

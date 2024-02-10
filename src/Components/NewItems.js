@@ -16,10 +16,17 @@ const NewItems = () => {
                     <p className='max-w-[245px] lg:mb-12'>{subtitle}</p>
                     <div className='items-center hidden lg:flex'>
                         <a className='font-medium transition-all hover:border-b-[4px] border-accent lg:items-center' href='#'>{link}</a>
+
+                        <div className='text-3xl'>{icon}</div>
+
                     </div>
                 </div>
 
-                <NewItemsSlider />
+                <div className='lg:max-w-[800px] xl:max-w-[990px] lg:absolute lg:-right-24'>
+
+                    <NewItemsSlider />
+
+                </div>
 
             </div>
         </div>
